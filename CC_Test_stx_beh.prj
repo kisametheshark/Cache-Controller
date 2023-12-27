@@ -1,0 +1,5 @@
+vhdl isim_temp "../../../vhdl/SDRAMController.vhd"
+vhdl isim_temp "../../../vhdl/CPU_gen.vhd"
+vhdl isim_temp "../tutorial3/ipcore_dir/bram.vhd"
+vhdl isim_temp "../../../vhdl/CacheController.vhd"
+vhdl isim_temp "CC_Test.vhd"

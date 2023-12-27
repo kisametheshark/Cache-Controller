@@ -1,0 +1,5 @@
+vhdl work "../../../vhdl/SDRAMController.vhd"
+vhdl work "../../../vhdl/CPU_gen.vhd"
+vhdl work "../tutorial3/ipcore_dir/bram.vhd"
+vhdl work "../../../vhdl/CacheController.vhd"
+vhdl work "CC_Test.vhd"

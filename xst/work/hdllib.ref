@@ -1,0 +1,12 @@
+AR ila ila_a /home/student2/a3lall/Desktop/COE758/COE758_Tutorials/coe758designproj1/ipcore_dir/ila.vhd sub00/vhpl11 1698442393
+EN cachecontroller NULL /home/student2/a3lall/Desktop/vhdl/CacheController.vhd sub00/vhpl06 1698680748
+AR icon icon_a /home/student2/a3lall/Desktop/COE758/COE758_Tutorials/coe758designproj1/ipcore_dir/icon.vhd sub00/vhpl09 1698442389
+EN sdramcontroller NULL /home/student2/a3lall/Desktop/vhdl/SDRAMController.vhd sub00/vhpl04 1698680746
+EN icon NULL /home/student2/a3lall/Desktop/COE758/COE758_Tutorials/coe758designproj1/ipcore_dir/icon.vhd sub00/vhpl08 1698442388
+EN cpu_gen NULL /home/student2/a3lall/Desktop/vhdl/CPU_gen.vhd sub00/vhpl00 1698680742
+EN bram NULL /home/student2/a3lall/Desktop/COE758/COE758_Tutorials/tutorial3/ipcore_dir/bram.vhd sub00/vhpl02 1698680744
+AR cachecontroller behavioral /home/student2/a3lall/Desktop/vhdl/CacheController.vhd sub00/vhpl07 1698680749
+AR cpu_gen behavioral /home/student2/a3lall/Desktop/vhdl/CPU_gen.vhd sub00/vhpl01 1698680743
+AR bram bram_a /home/student2/a3lall/Desktop/COE758/COE758_Tutorials/tutorial3/ipcore_dir/bram.vhd sub00/vhpl03 1698680745
+AR sdramcontroller behavioral /home/student2/a3lall/Desktop/vhdl/SDRAMController.vhd sub00/vhpl05 1698680747
+EN ila NULL /home/student2/a3lall/Desktop/COE758/COE758_Tutorials/coe758designproj1/ipcore_dir/ila.vhd sub00/vhpl10 1698442392

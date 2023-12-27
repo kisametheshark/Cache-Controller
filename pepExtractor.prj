@@ -1,0 +1,4 @@
+work	"../../../vhdl/CPU_gen.vhd"
+work	"../../../vhdl/CacheController.vhd"
+work	"../../../vhdl/SDRAMController.vhd"
+work	"../tutorial3/ipcore_dir/bram.vhd"
