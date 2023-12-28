@@ -4,4 +4,4 @@ The approach to the project was to begin implementation using a provided CPU VHD
 
 The result of this design resulted in a functional Cache Controller which acted dynamically the SRAM and SDRAM-controllers as well as numerous logical components. Essentially, the CPU would output instructions to the cache controller which would filter these inputs through several behavioral cases that dictated the flow of data. These HIT or MISS cases were dependent on TAG provided from the CPU and in regards to existing TAG, Validity, and Dirty bit contents within the SRAM cache. The resulting design was observed and tested using Functional Simulations (waveforms) in addition to ChipScope ICON and ILA cores to examine outputs.
 
-This was a collaborative group project.
+Project Collaborators: Adrian Lall, Jason Lai
